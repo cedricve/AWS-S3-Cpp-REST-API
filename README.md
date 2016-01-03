@@ -23,5 +23,5 @@ Get all your buckets.
 ### string getObjects(const string & bucket); 
 Get all objects from a specific bucket.
 
-### putObject(const string & file);
+### bool putObject(const string & file);
 Add a file to your bucket.
