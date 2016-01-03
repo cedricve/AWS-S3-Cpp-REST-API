@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar cq libFILEWATCHER_LIBRARY.a  CMakeFiles/FILEWATCHER_LIBRARY.dir/FileWatcher.cpp.o CMakeFiles/FILEWATCHER_LIBRARY.dir/FileWatcherLinux.cpp.o CMakeFiles/FILEWATCHER_LIBRARY.dir/FileWatcherOSX.cpp.o CMakeFiles/FILEWATCHER_LIBRARY.dir/FileWatcherWin32.cpp.o CMakeFiles/FILEWATCHER_LIBRARY.dir/Guard.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libFILEWATCHER_LIBRARY.a
