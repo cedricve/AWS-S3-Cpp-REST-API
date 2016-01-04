@@ -81,7 +81,7 @@ string S3::getObjects(const string & bucket)
     headers.push_back("Authorization: " + authorize(request));
     
     // Url
-    string url = "https://s3.amazonaws.com/?delimiter=/&prefix=cedricve/";
+    string url = "https://s3.amazonaws.com";
     
     // Execute get operation
     return get(url, headers);
